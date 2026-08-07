@@ -6,7 +6,7 @@
 
 #### Demos
 
-
+<a href="https://r055a.github.io/ai-quarto-3d/"><img width="200" alt="AI-Quarto 3D" src="https://github.com/user-attachments/assets/1a946042-859a-4c02-9a99-bb010ab0ec1e" /></a>
 
 #### Repositories
 
