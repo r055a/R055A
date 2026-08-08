@@ -13,8 +13,8 @@
 <!-- START: REPO-PINS -->
 [![r055a pin img](https://raw.githubusercontent.com/r055a/r055a/refs/heads/generated/repo_pin_imgs/0.svg)](https://github.com/r055a/r055a) [![profile-icons/github-profile-repo-pins pin img](https://raw.githubusercontent.com/r055a/r055a/refs/heads/generated/repo_pin_imgs/1.svg)](https://github.com/profile-icons/github-profile-repo-pins) 
 [![hacktoberfest-stats/hacktoberfest-stats-data pin img](https://raw.githubusercontent.com/r055a/r055a/refs/heads/generated/repo_pin_imgs/2.svg)](https://github.com/hacktoberfest-stats/hacktoberfest-stats-data) [![ai-quarto-3d pin img](https://raw.githubusercontent.com/r055a/r055a/refs/heads/generated/repo_pin_imgs/3.svg)](https://github.com/r055a/ai-quarto-3d) 
-[![dna-inbred-estimate pin img](https://raw.githubusercontent.com/r055a/r055a/refs/heads/generated/repo_pin_imgs/4.svg)](https://github.com/r055a/dna-inbred-estimate) [![uni-git-projects/data-sci-project-drl-jss pin img](https://raw.githubusercontent.com/r055a/r055a/refs/heads/generated/repo_pin_imgs/5.svg)](https://github.com/Dna072/drl-jss/issues/18) 
-[![profile-icons/github-profile-readme-site pin img](https://raw.githubusercontent.com/r055a/r055a/refs/heads/generated/repo_pin_imgs/6.svg)](https://github.com/profile-icons/github-profile-readme-site) 
+[![profile-icons/github-stats-mod pin img](https://raw.githubusercontent.com/r055a/r055a/refs/heads/generated/repo_pin_imgs/4.svg)](https://github.com/profile-icons/github-stats-mod) [![dna-inbred-estimate pin img](https://raw.githubusercontent.com/r055a/r055a/refs/heads/generated/repo_pin_imgs/5.svg)](https://github.com/r055a/dna-inbred-estimate) 
+[![uni-git-projects/data-sci-project-drl-jss pin img](https://raw.githubusercontent.com/r055a/r055a/refs/heads/generated/repo_pin_imgs/6.svg)](https://github.com/Dna072/drl-jss/issues/18) [![profile-icons/github-profile-readme-site pin img](https://raw.githubusercontent.com/r055a/r055a/refs/heads/generated/repo_pin_imgs/7.svg)](https://github.com/profile-icons/github-profile-readme-site) 
 <!-- END: REPO-PINS -->
 
 #### Statistics
